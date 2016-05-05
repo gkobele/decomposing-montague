@@ -22,7 +22,8 @@
    without discourse referents, and a semantics dealing with discourse
    referents without dynamism.
 
-   This is a literate Coq document, with source code available on the web at %\url{http://home.uchicago.edu/~gkobele/files/Kobele16DecomposingMontague.v}%.
+   This is a literate Coq document, with source code available on the 
+   web at %\url{https://github.com/gkobele/decomposing-montague}%.
 
 *)
 
