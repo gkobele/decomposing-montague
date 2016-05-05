@@ -1,6 +1,6 @@
 # decomposing-montague
 
-This repository contains the [*Coq*](https://coq.inria.fr/) code associated with the paper [_Decomposing Montagovian Dynamics_](http://home.uchicago.edu/~gkobele/files/Kobele16DecomposingMontague.pdf).
+This repository contains the [*Coq*](https://coq.inria.fr/) code (in the file `ConDyn.v`) associated with the paper [_Decomposing Montagovian Dynamics_](http://home.uchicago.edu/~gkobele/files/Kobele16DecomposingMontague.pdf).
 
 The *LaTeX* source of the paper can be obtained from the *Coq* document by means of the command line utility *coqdoc*, included with *Coq*.  I used the following command:
 
