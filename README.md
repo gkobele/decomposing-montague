@@ -7,4 +7,3 @@ The **LaTeX** source of the paper can be obtained from the **Coq** document by m
 `coqdoc --latex -g --no-index --body-only --no-lib-name -o ConDyn.tex ConDyn.v`
 
 This generates the body of a **LaTeX** file, which is input directly into the included file `main.tex`.  (I post-processed the output `ConDyn.tex` file by stripping out the first four or so lines.)
-
